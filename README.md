@@ -8,13 +8,13 @@ As a new developer, I want to do a daily coding project tutorial to learn new fe
 
 ## Description
 
-A landing page that is split vertically down the middle with two choices to click on. Whenever one side is hovered on that one side will stretch out to 75% of the screen.
+Double click heart feature on an image to like it. It also counts how many times the image has been double clicked or liked.
 
 ## Demo
 
-![](split-landing.gif)
+![](double-heart-click.gif)
 
-https://curtiskil.github.io/split-landing-page/
+https://curtiskil.github.io/double-heart-click/
 
 ## Contributors
 
